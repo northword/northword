@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm [Northword](www.northword.cn) 👋
+
+A postgraduate student studying for a master's degree, with research interests in environmental materials and air pollution control. Love code, love toss, love digital products.
+
+
+![](https://github-readme-stats.vercel.app/api?username=northword&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=northword&layout=compact)
+
 
 <!--
 **northword/northword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
