@@ -1,4 +1,4 @@
-### Hi there, I'm [Northword](www.northword.cn) 👋
+### Hi there, I'm [Northword](http://www.northword.cn) 👋
 
 A postgraduate student studying for a master's degree, with research interests in environmental materials and air pollution control. Love code, love toss, love digital products.
 
