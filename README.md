@@ -9,3 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,vscode,pycharm,vim,obsidian,postman,netlify,githubactions,cloudflare,ps,pr)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,pnpm,js,ts,vue,html,css,vite,vitest,regex,py,md,latex,php,wordpress)](https://skillicons.dev)
+
+<details>
+  <summary>Detailed Metrics</summary>
+  <img src="./github-metrics.svg" />
+</details>
